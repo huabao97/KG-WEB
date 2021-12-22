@@ -1,0 +1,8 @@
+util\SqlSessionFactoryUtils.class
+web\BrandServlet.class
+mapper\BrandMapper.class
+pojo\Brand.class
+pojo\PageBean.class
+service\BrandService.class
+web\BaseServlet.class
+service\impl\BrandServiceImpl.class
